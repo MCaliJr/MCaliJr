@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MCaliJr
 - 👀 I’m interested in creating problem solving ideas and sharing them with others.
-- 🌱 I’m currently learning Harvard's CS50 introduction to Computer Science course.
+- 🌱 I’m currently self-teaching myself with The Odin Project curriculum.
 - 💞️ I’m looking to collaborate on many projects in the future, just need to get the skill first haha!
 - 📫 How to reach me: MartinK.MoC@gmail.com
 
