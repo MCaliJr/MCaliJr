@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MCaliJr
 - 👀 I’m interested in creating problem solving ideas and sharing them with others.
-- 🌱 I’m currently self-teaching myself with The Odin Project curriculum.
-- 💞️ I’m looking to collaborate on many projects in the future, just need to get the skill first haha!
+- 🌱 I’m currently an Early Talent Software Engineer at [LiveChat](https://www.livechat.com/).
+- 💞️ I’m looking to get better at software development by at least 1% every day!
 - 📫 How to reach me: MartinK.MoC@gmail.com
 
 <!---
