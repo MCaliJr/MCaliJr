@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MCaliJr
-- 👀 I’m interested in creating problem solving ideas and sharing them with others.
+- 👀 I’m interested in creating problem-solving ideas and sharing them with others.
 - 🌱 I’m currently a Junior Software Engineer at [LiveChat](https://www.livechat.com/).
+- 🎯 I’m choosing GO as the primary language to focus on.
 - 💞️ I’m looking to get better at software development by at least 1% every day!
 - 📫 How to reach me: MartinK.MoC@gmail.com
 
